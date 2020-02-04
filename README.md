@@ -1,2 +1,2 @@
 # XYDB.COM
-# XYDB.COM XYDB.COM  open source database
+XYDB.COM  open source database
